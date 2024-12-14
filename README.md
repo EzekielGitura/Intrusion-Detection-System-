@@ -1,6 +1,6 @@
-## Intrusion Detection System (IDS) Overview
+# Intrusion Detection System (IDS) Overview
 
-This repository contains the implementation of a two-part Intrusion Detection System (IDS) designed to monitor and safeguard network traffic and system activities.It acans for known attack signatures and responds to them in real-time.
+An Intrusion Detection System (IDS) designed to monitor and safeguard network traffic and system activities.It scans for known attack signatures and responds to them in real-time.
 
 ### Detection Mechanism
 It identifies potential threats by:
